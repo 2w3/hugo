@@ -1,0 +1,24 @@
+baseURL = "http://2w3.github.io/"
+languageCode = "ko-KR"
+title = "2w3.github.io"
+theme = "hucore"
+googleAnalytics = "trackingcode"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[params]
+description = "description here"
+keywords = ["keyword 1", "keyword 2", "keyword 3"]
+author = "Mark Lee"
+sharingicons = false
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
+
