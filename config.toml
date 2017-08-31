@@ -1,4 +1,4 @@
-baseURL = "http://2w3.github.io/"
+baseURL = "https://2w3.github.io/"
 languageCode = "ko-KR"
 title = "2w3.github.io"
 theme = "hucore"
