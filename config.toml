@@ -2,7 +2,7 @@ baseURL = "https://2w3.github.io/"
 languageCode = "ko-KR"
 title = "2w3.github.io"
 theme = "hucore"
-googleAnalytics = "trackingcode"
+googleAnalytics = "UA-93056260-1"
 
 [taxonomies]
 tag = "tags"
